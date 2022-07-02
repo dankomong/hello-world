@@ -8,4 +8,10 @@ const andyAndFranke = () => {
 
 andyAndFrankie();
 
+const frankToDiamond = () => {
+    console.log("Frank will reach Diamond in Val in 2 weeks.")
+}
+
+frankToDiamond();
+
 doThis();
